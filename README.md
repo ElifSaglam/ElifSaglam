@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 [angular]: https://angular.io/
 
 <br />
-<br />
 
 ### 📫 Connect with Me:
 
