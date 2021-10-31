@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElifSaglam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)theme=blue-green
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElifSaglam&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔧 Languages and Tools:
 
@@ -48,6 +48,5 @@ Here are some ideas to get you started:
 
 ### 📩 Connect with Me:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ElifSaglam/ElifSaglam/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-33B3FF?style=flat-quare&labelColor=33B3FF&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/elif-sa%C4%9Flam) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/r-ile-rest-api-olu%C5%9Fturulmas%C4%B1/r-ile-rest-api-nas%C4%B1l-yaz%C4%B1l%C4%B1r-3099be63800d) 
