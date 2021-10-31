@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 ### 🔧 Languages and Tools:
 
+<br />
+<br />
+<br />
 [<img align="left" alt="R" title="R Studio" width="26px" src="https://d33wubrfki0l68.cloudfront.net/521a038ed009b97bf73eb0a653b1cb7e66645231/8e3fd/assets/img/rstudio-icon.png" />][r]
 
 [<img align="left" alt="R Plumber" title="R Plumber API" width="26px" src="https://datascientists.info/wp-content/uploads/2018/01/plumber.png" />][plumber]
-
-[<img align="left" alt="R Markdown" title="R Markdown" width="26px" src="https://www.pngix.com/viewpng/imhxxoT_you-know-r-markdown-r-markdown-logo-hd/" />][markdown]
 
 [<img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 
