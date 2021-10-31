@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 [plumber]: https://www.rplumber.io/
 [angular]: https://angular.io/
 
-https://rmarkdown.rstudio.com/
 
 <br />
 <br />
