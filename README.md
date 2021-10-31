@@ -1,4 +1,4 @@
-### Hi! Welcome to my github page. 👋
+### Merhaba, github sayfama hoş geldiniz. 👋
 <!--
 **ElifSaglam/ElifSaglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
