@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 [python]: https://www.python.org/
 [docker]: https://www.docker.com/
 [postgre]: https://www.postgresql.org/
+[html]: https://www.javascript.com/
+[css]: https://www.javascript.com/
+[js]: https://www.javascript.com/
 
 <br />
 <br />
