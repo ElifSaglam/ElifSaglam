@@ -19,15 +19,12 @@ Here are some ideas to get you started:
 
 
 ### 🔧 Languages and Tools:
-<br />
-<br />
+
 [<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />][vs]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="R" width="26px" src="https://d33wubrfki0l68.cloudfront.net/521a038ed009b97bf73eb0a653b1cb7e66645231/8e3fd/assets/img/rstudio-icon.png" />][r]
-[<img align="left" alt="Docker" width="26px" src=" " />][docker]
 [<img align="left" alt="PostgraSQl" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />][postgre]
 
-<br />
 <br />
 
 [vs]: https://code.visualstudio.com/
@@ -35,9 +32,6 @@ Here are some ideas to get you started:
 [python]: https://www.python.org/
 [docker]: https://www.docker.com/
 [postgre]: https://www.postgresql.org/
-
-
-
 
 <br />
 <br />
