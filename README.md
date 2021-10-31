@@ -1,4 +1,5 @@
-### Merhaba, github sayfama hoş geldiniz. 👋
+### Hi! Welcome to my github page. 👋
+I'm Elif Sağlam. Software Developer and Data Scientist 
 <!--
 **ElifSaglam/ElifSaglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
