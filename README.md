@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElifSaglam&layout=compact&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElifSaglam&theme=tokyonight)
-
 ### 🔧 Languages and Tools:
 
 [<img align="left" alt="R" title="R Studio" width="26px" src="https://d33wubrfki0l68.cloudfront.net/521a038ed009b97bf73eb0a653b1cb7e66645231/8e3fd/assets/img/rstudio-icon.png"/>][r]
