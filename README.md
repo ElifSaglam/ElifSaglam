@@ -1,5 +1,13 @@
-### Hi! Welcome to my github page. 👋
-I'm Elif Sağlam. Software Developer and Data Scientist 
+#### Hi there, I'm Elif! Welcome to my github page. 👋
+
+I'm a Senior Data Scientist. Currently working on the latest technologies, particularly Generative AI and Large Language Models. 
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElifSaglam&show_icons=true&theme=tokyonight" alt="Elif's GitHub stats" style="height: 195px;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElifSaglam&layout=compact&theme=tokyonight" alt="Top Languages" style="height: 195px;"/>
+</div>
+
 <!--
 **ElifSaglam/ElifSaglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElifSaglam&layout=compact&theme=gotham)
-
-### 🔧 Languages and Tools:
+#### 🔧 Languages and Tools:
 
 [<img align="left" alt="R" title="R Studio" width="26px" src="https://d33wubrfki0l68.cloudfront.net/521a038ed009b97bf73eb0a653b1cb7e66645231/8e3fd/assets/img/rstudio-icon.png"/>][r]
 [<img align="left" alt="R Plumber" title="R Plumber API" width="26px" src="https://datascientists.info/wp-content/uploads/2018/01/plumber.png" />][plumber]
@@ -28,6 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="HTML" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS" title="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript"  title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="AWS" title="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />][aws]
 
 <br />
 
@@ -42,16 +49,22 @@ Here are some ideas to get you started:
 [shiny]: https://shiny.rstudio.com/
 [plumber]: https://www.rplumber.io/
 [angular]: https://angular.io/
+[aws]: https://aws.amazon.com/
 
 <br />
 
+#### 📫  Connect with Me:
 
-
-### 📫 Connect with Me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-33B3FF?style=flat-quare&labelColor=33B3FF&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/elif-sa%C4%9Flam) 
-
-[![Medium Badge 1](https://img.shields.io/badge/-Medium-757575?style=flat-square&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@elifsaglamist)](https://medium.com/@elifsaglamist)  
-[![Medium Badge 2](https://img.shields.io/badge/-Medium%20Article-757575?style=flat-square&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/r-ile-rest-api-olu%C5%9Fturulmas%C4%B1/r-ile-rest-api-nas%C4%B1l-yaz%C4%B1l%C4%B1r-3099be63800d)](https://medium.com/r-ile-rest-api-olu%C5%9Fturulmas%C4%B1/r-ile-rest-api-nas%C4%B1l-yaz%C4%B1l%C4%B1r-3099be63800d)
+<div style="display: flex; align-items: center; justify-content: center; gap: 15px; padding: 10px;">
+  <a href="https://www.linkedin.com/in/elif-sa%C4%9Flam" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+  </a>
+  <a href="https://medium.com/@elifsaglamist" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge 1">
+  </a>
+  <a href="https://medium.com/r-ile-rest-api-olu%C5%9Fturulmas%C4%B1/r-ile-rest-api-nas%C4%B1l-yaz%C4%B1l%C4%B1r-3099be63800d" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Medium%20Article-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge 2">
+  </a>
+</div>
 
 
